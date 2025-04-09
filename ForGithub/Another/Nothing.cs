@@ -12,6 +12,14 @@ namespace ForGithub.Another
        public static void Another()
        {
             Console.WriteLine("print god damn it");
+            Console.WriteLine("added new line ");
        }
+
+        public static void add()
+        {
+            Console.WriteLine("added new add method.");
+        }
+
+
     }
 }
