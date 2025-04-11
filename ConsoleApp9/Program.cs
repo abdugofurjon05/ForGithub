@@ -10,6 +10,9 @@ namespace ConsoleApp9
    
 
             Console.WriteLine("merged to main");
+            Console.WriteLine("merged to main");
+            Console.WriteLine("merged to main");
+            Console.WriteLine("merged to main");
 
             Console.ReadKey();
         }
